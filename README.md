@@ -1,0 +1,1 @@
+Ako si Kerby, malakas maging mahina.
