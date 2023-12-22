@@ -38,3 +38,11 @@ Example: git push origin master
 **Git pull** - Used to fetch updates from the remote repository and applies latest update to your local device storage.
 Parameters: Remote repository and branch name
 Example: git pull origin master
+
+**Git checkout** - Used to select and activate the specified branch in a repository.
+Parameter: Branch name
+Example: git checkout dummy_branch
+
+**Git merge** - Used to merge a branch to a selected and activated branch using git checkout &lt;branch&gt;.
+Parameter: Branch name
+Example: git merge dummy_branch
