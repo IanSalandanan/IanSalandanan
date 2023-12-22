@@ -1,11 +1,11 @@
 
-<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Hello Gif" width="700" height="300">
+<img align="center" alt="Hello Gif" width="1000" height="500" img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="rgbline" width="650" height="3">
+<img align="center" alt="rgbline" width="1000" height="3" img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" >
 
 ## About me
 
-<img align="left" alt="Vibing Kirby" width="100" height="100" style="margin-right: 10px;" img src="https://i.pinimg.com/originals/3e/5c/53/3e5c53781e906ac48a73ff4b85860368.gif">
+<img align="left" alt="Vibing Kirby" width="100" height="100" style="margin-right:15px;" img src="https://i.pinimg.com/originals/3e/5c/53/3e5c53781e906ac48a73ff4b85860368.gif">
 
 <p align="left"> 
 I'm Christian Kerby T. Salandanan, but you can call me Kerbs or Kerby.
@@ -33,7 +33,7 @@ I'm a 2nd-Year BSIT College Student at Mapua Malayan Colleges of Laguna, passion
 
 [Contact Me](mailto:kerbysalandanan@gmail.com)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="rgbline" width="650" height="3">
+<img align="center" alt="rgbline" width="1000" height="3" img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" >
 
 ### GitHub Cheat Sheet
 
