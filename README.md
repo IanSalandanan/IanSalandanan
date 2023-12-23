@@ -33,7 +33,7 @@ I'm a 2nd-Year BSIT College Student at Mapua Malayan Colleges of Laguna, passion
 
 <img align="left" alt="css" width="120" height="40" style="margin-right: 10px;" img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-<img align="left" alt="javascript" width="170" height="40" style="margin-top: 25px;" img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align="left" alt="javascript" width="170" height="40" style="position: relative; top: 10px" img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 <br>
 <br>
@@ -84,7 +84,5 @@ I'm a 2nd-Year BSIT College Student at Mapua Malayan Colleges of Laguna, passion
 <br>
 
 <img align="center" alt="rgbline" width="1000" height="3" img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" >
-
-<br>
 
 <img align="center" alt="Kirby_Riding" width="1000" height="450" img src="https://www.icegif.com/wp-content/uploads/2023/02/icegif-1413.gif">
