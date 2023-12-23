@@ -12,7 +12,7 @@ I'm Christian Kerby T. Salandanan, but you can call me Kerbs or Kerby.
 I'm a 2nd-Year BSIT College Student at Mapua Malayan Colleges of Laguna, passionate about coding. I love turning my ideas into reality through programming. Currently exploring the fascinating world of cybersecurity because I have a keen interest in hacking and reverse engineering algorithms.
 </p>
 
-
+<br>
 
 ### Coding Language Known and Used
 <img align="left" alt="c#" width="60" height="40" style="margin-right: 10px;" img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -21,6 +21,7 @@ I'm a 2nd-Year BSIT College Student at Mapua Malayan Colleges of Laguna, passion
 
 <img align="left" alt="c++" width="100" height="40" style="margin-right: 10px;" img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
+<br>
 <br>
 <br>
 
@@ -36,11 +37,8 @@ I'm a 2nd-Year BSIT College Student at Mapua Malayan Colleges of Laguna, passion
 <br>
 <br>
 
-<img align="left" alt="javascript" width="170" height="40" img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-
-<br>
-<br>
-<br>
+<img alt="javascript" width="170" height="40" style="margin-top: 10px;"
+img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <br>
 
 ### Contact with Me
