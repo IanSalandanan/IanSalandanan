@@ -33,7 +33,10 @@ I'm a 2nd-Year BSIT College Student at Mapua Malayan Colleges of Laguna, passion
 
 <img align="left" alt="css" width="120" height="40" style="margin-right: 10px;" img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-<img align="left" alt="javascript" width="170" height="40" style="position: relative; top: 10px" img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<br>
+<br>
+
+<img align="left" alt="javascript" width="170" height="40" img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 <br>
 <br>
